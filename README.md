@@ -7,7 +7,6 @@ Travis is cool. Coveralls is hip. But Jenkins has had this stuff for a while, an
 * PuTTY: http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html
 * Localtunnel: https://github.com/localtunnel/localtunnel
 
-
 Starting
 ---------
 [Once you have clone the repository](https://github.com/stremann/vagrant-jenkins-node), just run:
