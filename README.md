@@ -19,7 +19,9 @@ Make SSH connection as vagrant@vagrant user on:
 
     127.0.0.1:2222
 
-In case you want to share your Jenkins instance, you could use localtunnel util
+In case you want to share your Jenkins instance, you could use localtunnel:
+
+    lt --subdomain jenkins --port 6060
 
 Vagrant commands
 -------------
